@@ -119,6 +119,7 @@
   <ItemGroup>
     <Resource Include="Content\RPC-Logo.png" />
     <Resource Include="Content\rpc-logo.ico" />
+    <Content Include="Content\discord-rpc.dll" />
     <Content Include="discord-rpc.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
