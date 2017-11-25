@@ -6,7 +6,7 @@
         GlowBrush="{DynamicResource AccentColorBrush}"
         BorderThickness="1"
         ResizeMode="CanMinimize"
-        Title="Diskodi - Kodi Scrobler for Discord" Height="350" Width="525">
+        Title="Diskodi - Kodi Scrobbler for Discord" Height="350" Width="525">
     <Grid>
         <Button Content="Save Settings" HorizontalAlignment="Left" Margin="10,280,0,0" VerticalAlignment="Top" Width="495" Click="Save_Settings"/>
         <Label Content="Kodi RPC Address" Margin="10,10,381,280"  HorizontalAlignment="Left"/>
