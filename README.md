@@ -1,4 +1,4 @@
-# diskodi - Kodi Scrobler for Discord
+# diskodi - Kodi Scrobbler for Discord
 
 This is a small app for creating a relay between Kodi (through RPC) and Discord (Through the Rich Presence API / RPC)
 
